@@ -44,7 +44,7 @@ class Satan
       char b = mantra.charAt(index);
 
       if (Character.toLowerCase(a) == Character.toLowerCase(b)) {
-        theOmen = theOmen + "[glow]" + a + "[/glow]";
+        theOmen = theOmen + "[glow=red]" + a + "[/glow]";
         index++;
       } else {
         theOmen = theOmen + a;
