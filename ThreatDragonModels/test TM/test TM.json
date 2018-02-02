@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "test TM",
+    "owner": "lmp",
+    "description": "java app test TM"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "lmp"
+  }
+}
